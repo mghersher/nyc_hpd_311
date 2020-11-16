@@ -12,3 +12,7 @@ It produces the data underlying the visualizations that you can find here:
 ### How do I use this code?
 - Run the .ipynb to replicate the analysis. All required packages are listed in the first section of the notebook.
 - The files in the cleaning_resolution_text folder document the manual aspects of the tokenization analysis, such that even these will be replicated by running the .ipynb
+
+### Extension of this project
+You can find a network visualization extension of this project in the following repository: https://github.com/mghersher/nyc_hpd_311_network_viz
+
